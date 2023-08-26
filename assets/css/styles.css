@@ -354,6 +354,8 @@ img{
   width: 100px;
   align-self: center;
   margin-bottom: var(--mb-2);
+  aspect-ratio: 1/1;
+  object-fit: cover;
 }
 
 .drink__img{
